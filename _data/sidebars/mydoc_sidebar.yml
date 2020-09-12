@@ -12,7 +12,7 @@ entries:
     folderitems:
     - title:
       url: /titlepage.html
-      output: pdf
+      output: pdf 
       type: frontmatter
     - title:
       url: /tocpage.html
@@ -21,7 +21,7 @@ entries:
 
   - title: Overview
     output: web, pdf
-    folderitems:
+    folderitems:      
 
     - title: Get started
       url: /index.html
@@ -45,6 +45,18 @@ entries:
       output: web, pdf
 
   - title: Release Notes
+    output: web, pdf
+    folderitems:
+
+    - title: 6.0 Release notes
+      url: /mydoc_release_notes_60.html
+      output: web, pdf
+
+    - title: 5.0 Release notes
+      url: /mydoc_release_notes_50.html
+      output: web, pdf
+
+  - title: "CRM: Customer Relationship Management"
     output: web, pdf
     folderitems:
 
