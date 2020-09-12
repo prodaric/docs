@@ -72,7 +72,7 @@ entries:
       url: /mydoc_install_jekyll_on_windows.html
       output: web, pdf
 
-  - title: "CRM: Customer Relationship Management"
+  - title: "Customer Relationship Management"
     output: web, pdf
     folderitems:
 
@@ -84,7 +84,7 @@ entries:
       url: /mydoc_release_notes_50.html
       output: web, pdf
 
-  - title: "ERP: Enterprise Resource Planning"
+  - title: "Enterprise Resource Planning"
     output: web, pdf
     folderitems:
 
@@ -96,7 +96,7 @@ entries:
       url: /mydoc_release_notes_50.html
       output: web, pdf
 
-  - title: "HRM: Human Resource Management"
+  - title: "Human Resource Management"
     output: web, pdf
     folderitems:
 
@@ -108,7 +108,7 @@ entries:
       url: /mydoc_release_notes_50.html
       output: web, pdf
 
-  - title: "CCR: Continuity of Care Record"
+  - title: "Continuity of Care Record"
     output: web, pdf
     folderitems:
 
@@ -120,7 +120,7 @@ entries:
       url: /mydoc_release_notes_50.html
       output: web, pdf
 
-  - title: "LCM: Learning Content Management"
+  - title: "Learning Content Management"
     output: web, pdf
     folderitems:
 
@@ -132,7 +132,7 @@ entries:
       url: /mydoc_release_notes_50.html
       output: web, pdf
 
-  - title: "CMS: Content Management System"
+  - title: "Content Management System"
     output: web, pdf
     folderitems:
 
